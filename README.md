@@ -9,8 +9,14 @@
 - 💬 Feel free to ask me about anything you like
 - 📫 How to reach me:  https://t.me/parsifalty
 - 😄 Pronouns: he/him
+- 🧳 I speak russian(native), romanian(A2), english(C1)
 
-- I've learnt so far these languages and skills 
+<h3>Connect with me via</h3>
+<div align="center">
+<img src="./icons/Discord.svg" width="48">
+<img src="./icons/Twitter.svg" width="48">
+
+<h3>Languages and skills I've learnt so far</h3>
 <div align="center">
  <img src="./icons/React-Dark.svg" width="48">  
  <img src="./icons/VisualStudio-Dark.svg" width="48">
@@ -18,5 +24,6 @@
  <img src="./icons/HTML.svg" width="48">
  <img src="./icons/CSS.svg" width="48">
  <img src="./icons/Github-Dark.svg" width="48">
+ <img src="./icons/Figma-Dark.svg" width="48">
  </div>
 
