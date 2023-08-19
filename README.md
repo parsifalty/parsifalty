@@ -15,6 +15,7 @@
 <div align="center">
 <img src="./icons/Discord.svg" width="48">
 <img src="./icons/Twitter.svg" width="48">
+</div>
 
 <h3>Languages and skills I've learnt so far</h3>
 <div align="center">
