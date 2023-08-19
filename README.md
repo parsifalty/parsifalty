@@ -12,5 +12,5 @@
 
 - I've learnt so far these languages and skills 
 
- <img src="../icons/React-Dark.svg" width="48">  
+ <img src="./icons/React-Dark.svg" width="48">  
 
