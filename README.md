@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Paul
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="60px"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 - 🔭 I’m currently working on ...
