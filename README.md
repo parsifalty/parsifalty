@@ -11,6 +11,12 @@
 - 😄 Pronouns: he/him
 
 - I've learnt so far these languages and skills 
-
+<div align="center">
  <img src="./icons/React-Dark.svg" width="48">  
+ <img src="./icons/VisualStudio-Dark.svg" width="48">
+ <img src="./icons/JavaScript.svg" width="48">
+ <img src="./icons/HTML.svg" width="48">
+ <img src="./icons/CSS.svg" width="48">
+ <img src="./icons/Github-Dark.svg" width="48">
+ </div>
 
