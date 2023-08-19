@@ -16,7 +16,7 @@
 <a href="https://discordapp.com/users/parsifalty_67164"><img src="./icons/Discord.svg" width="48"></a>
 <a href="https://twitter.com/sign_armadey"><img src="./icons/Twitter.svg" width="48"></a>
 <a href="https://t.me/parsifalty"><img src="./icons/icons8-telegram.svg" width="48"></a>
-<a href="https://www.instagram.com/parsifalty_/"><img src="./icons/Instagram.svg"></a>
+<a href="https://www.instagram.com/parsifalty_/"><img src="./icons/Instagram.svg" width="48"></a>
 </div>
 
 <h3>Languages and skills I've learnt so far</h3>
