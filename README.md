@@ -13,7 +13,7 @@
 
 <h3>Connect with me via</h3>
 <div align="center">
-<a href=" https://discordapp.com/users/parsifalty_67164"><img src="./icons/Discord.svg" width="48"></a>
+<a href="https://discordapp.com/users/parsifalty_67164"><img src="./icons/Discord.svg" width="48"></a>
 <a href="https://twitter.com/sign_armadey"><img src="./icons/Twitter.svg" width="48"></a>
 <a href="https://t.me/parsifalty"><img src="./icons/icons8-telegram.svg" width="48"></a>
 </div>
