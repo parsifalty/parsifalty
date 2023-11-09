@@ -31,4 +31,5 @@
  <img src="./icons/NodeJS-Dark.svg" width="48">
  <img src="./icons/ExpressJS-Dark.svg" width="48">
  <img src="./icons/MongoDB.svg" width="48">
+ <img src="./icons/React-Dark.svg" width="48">
  </div>
