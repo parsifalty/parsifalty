@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with React
 - 💬 Feel free to ask me about anything you like
-- 📫 How to reach me:  https://t.me/parsifalty
+- 📫 How to reach me: https://t.me/parsifalty
 - 😄 Pronouns: he/him
 - 🧳 I speak russian(native), romanian(A2), english(C1)
 
@@ -28,5 +28,7 @@
  <img src="./icons/CSS.svg" width="48">
  <img src="./icons/Github-Dark.svg" width="48">
  <img src="./icons/Figma-Dark.svg" width="48">
+ <img src="./icons/NodeJS-Dark.svg" width="48">
+ <img src="./icons/ExpressJS-Dark.svg" width="48">
+ <img src="./icons/MongoDB.svg" width="48">
  </div>
-
