@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px" width="30px"/></h1>
 <h3 align="center">Computer science student, IT news writer from Moldova 🇲🇩</h3>
 
-- 🔭 I’m currently working on React/mesto
+- 🔭 I’m currently working on express/node
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with React
